@@ -4,5 +4,8 @@
     "@emotion/styled": "^11.14.0",
     "@mui/icons-material": "^7.0.1",
     "@mui/material": "^7.0.1"
+  },
+  "devDependencies": {
+    "vite": "^6.2.3"
   }
 }
